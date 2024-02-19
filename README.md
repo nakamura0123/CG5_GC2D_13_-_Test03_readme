@@ -1,1 +1,3 @@
-# CG5_GC2D_13_-_Test03_readme
+テクスチャブレンド：texture
+ディゾルブ：dissolv
+こだわり　実行出来るように頑張りました。
